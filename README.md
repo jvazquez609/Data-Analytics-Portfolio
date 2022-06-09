@@ -3,4 +3,4 @@ This repository contains projects and visualizations created from the data scien
 
 ##SQL
 ##Statistics
-##Visula Communications
+##Visual Communications
