@@ -1,6 +1,8 @@
 # Data-Analytics-Portfolio
-This repository contains projects and visualizations created from the data science $ analytics program with CUSLB
+This repository contains projects and visualizations created from the Data Science & Analytics program with CSULB.
 
-##SQL
-##Statistics
-##Visual Communications
+##SQL.
+
+##Statistics.
+
+##Visual Communications.
